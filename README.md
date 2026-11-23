@@ -17,6 +17,12 @@ This link always gives the newest version.
 
 The app is for Android only. It does not run on iPhone.
 
+## Updates
+
+You only install by hand once. After that, Metron checks for a new version every time you open it. When one is out it shows **Update available**: tap **Update now**, wait for the download, then tap **Install**.
+
+The first time, Android asks whether Metron may install apps. Tap **Settings → Allow from this source**, go back, and tap **Install** again.
+
 ## Versions
 
 Every version, with what changed, is on the [Releases](https://github.com/PranshuNextqom/metron-app/releases) page.
